@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/bg_image">
+        <file>images/Remove-349235435.png</file>
+        <file>images/White</file>
+        <file>images/Фон.PNG</file>
+        <file>images/Фон_1.PNG</file>
+        <file>images/583157425c04515880bcdb49.jpg</file>
+        <file>images/plus_PNG84.png</file>
+        <file>images/Фон_2.PNG</file>
+    </qresource>
+</RCC>
